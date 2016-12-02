@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+html {
+    font-family: sans-serif , Tahoma;
+}
+.wrap {
+    margin: 0 auto;
+    display: block;
+}
+.first {
+    float: left;
+    width: 24%;
+    height: 474px;
+    border: 1px solid #aaaaaa;
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    vertical-align: middle;
+    margin-top: 30px;
+}
+img {
+    width: 250px;
+    height: 250px;
+}
+h5  {
+    margin: 10px 0 10px 0;
+    border-bottom:1px solid #aaaaaa; ;
+    height: 70px;
+    vertical-align: inherit;
+    text-align: center;
+    color: #aaaaaa;
+    padding-top: 30px;
+}
+h6 {
+    margin: 6px 0 8px 0;
+    color: #00cece;
+    font-size: 17px;
+}
+button {
+    width: 170px;
+    height: 30px;
+}
+button {
+    background: #e6e600;
+}
